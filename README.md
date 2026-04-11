@@ -1,4 +1,6 @@
-# Embedded Systems Developer
+<h1 align="center">Hi 👋, I'm Yeyeong</h1>
+
+I'm searching a job **Embedded Systems Developer**
 
 ## About
 Bare-metal 기반 MCU 제어와 RTOS 시스템 설계를 공부하고 있습니다.
