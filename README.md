@@ -14,7 +14,7 @@ ROS2 기반 시스템 통합을 특기로, 협동로봇과 자율주행 로봇 �
 
 ## 🛠 Skills
 - **Framework**: ROS2 (Humble)
-- **Language**: Python, C (기초)
+- **Language**: Python, C (기초)      
 - **Robot**: Doosan E0509, ROBOTIS RH-P12-RN-A
 - **Perception**: YOLOv8, RealSense
 - **Planning**: MoveIt2
@@ -25,7 +25,7 @@ ROS2 기반 시스템 통합을 특기로, 협동로봇과 자율주행 로봇 �
 
 ## 🤖 Featured Projects
 
-### [물성 기반 적응형 파지 로봇](https://github.com/[username]/adaptive-grasping-robot)
+### [물성 기반 적응형 파지 로봇](https://github.com/StealthBlack66/adaptive-grasping-robot)
 > Hardness-Aware Adaptive Grasping with ROS2 + Doosan E0509
 
 카메라로 물체의 재질(딱딱함/중간/말랑)을 인식하고,  
